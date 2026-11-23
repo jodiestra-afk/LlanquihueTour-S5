@@ -1,6 +1,6 @@
 Evaluación Sumativa 2, Semana 5
 
-👤 Autor del proyecto
+👤 Autor del proyecto:
 
 Nombre completo: Joseph Diestra Arroyo
 
@@ -8,11 +8,13 @@ Carrera: Analista Programador
 
 Sede: Campus Online
 
-📘 Descripción general del sistema
+📘 Descripción general del sistema:
+
+La funcion principal de este proyecto es leer los datos ingresados, desempacarlos en clases estructuradas y mostrar los filtros de busqueda solicitados.
+Al ejecutarlos por consola, muestra la cantidad de proveedores, los servicios que ofrecen como hospedaje y restaurantes, y los dias de la semana que se encuentran mas baratos. 
 
 
-
-🧱 Estructura general del proyecto
+🧱 Estructura general del proyecto:
 
 📁 src/
 
@@ -26,14 +28,15 @@ Sede: Campus Online
 
 ├── util/ # Clase Lector_Proveedores
 
-⚙️ Instrucciones
+⚙️ Instrucciones:
 
-Creamos dos paquetes en el Source, app para el Main. Y model para la clases Servicios, Proveedor y Horarios
+1. Creamos 5 paquetes en el Source:
 
-En la clase Servicios: creamos los objetos de aerolines y hoteles.
+2. App para el Main. Model para la clases Servicios, Proveedor y Horarios. Resources para guardar los datos.
 
-En la clase Proveedor: creamos el objeto de nombre y reutilizamos la clase Servicios.
+3. En service esta la clase Adminstrador_Proveedores, donde se encuentran los creadores de busqueda por filtro.
 
-Y la clase Horarios es la clase extendida de Proveedor.
+4. En util esta el Lector_Proveedores que lee el archivo.txt.
 
-En la clase Main creamos los Servicios, Proveedores y los Horarios y para finalizar los mostramos por consola.
+5. Y al ejecutar en la clase Main, por consola, muestra los registros ingresados y los filtros de busqueda.
+
