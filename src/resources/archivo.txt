@@ -1,0 +1,8 @@
+12.345.678-5;Natalia Vargas;912345678;Don Carlitos;Casas AirBnb; Lunes a Viernes
+18.234.567-9;Maribel Arroyo;923456789;Sazon Chilena;Cabañas Kani; Jueves, Viernes y Sabado
+15.678.234-2;Ana Arroyo;934567890;Sabor Peruano;Cabañas Vallejos; Sabado a Lunes
+21.456.789-3;Eduardo Gonzales;945678901;Aji Seco;Hospedajes Tita; Domingo a Martes
+17.890.456-1;Marcos Diestra;956789012;Pollo Joel;Hotel Piura;Viernes a Domingo
+13.567.890-9;Jorge Fernandez;967890123;Maricasdas;Casas AirBnb; Lunes a Viernes
+19.345.678-4;Hernan Perez;978901234;El Colesterol;Hostal del Norte; Sabado a Lunes
+16.789.345-6;Jessica Segovia;989012345;Las Pepas;Cabañas Chiloe; Lunes a Sabado
